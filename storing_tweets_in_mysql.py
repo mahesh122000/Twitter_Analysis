@@ -6,11 +6,11 @@ from dateutil import parser
 import time
 import os
 
-consumer_key = 'RC2Kl8eVrzz1wEd7vIJLKbPWX'
-consumer_secret = '9TC1hx6wdJLvfss5AW8NF8I6TmIuchHS9rXmt2752iaStKSHeH'
-access_token = '956451552633397248-Xc3E5KMwUOBe7I2fHisHLYUnnDmiFuS'
-access_token_secret = '7o7xZmNobDfeNWq0x8PSlIOwvyWpRQJSsZtAzZKAO99Hl'
-password = 'february122000'
+consumer_key = 'xxxxx'
+consumer_secret = 'xxxx'
+access_token = 'xxxx'
+access_token_secret = 'xxxx'
+password = 'xxxx'
 
 
 def connect(username, created_at, tweet, retweet_count, place , location):
