@@ -6,14 +6,14 @@ from dateutil import parser
  
 WORDS = ['#bigdata', '#AI', '#datascience', '#machinelearning', '#ml', '#iot']
  
-CONSUMER_KEY = 'RC2Kl8eVrzz1wEd7vIJLKbPWX'
-CONSUMER_SECRET ='9TC1hx6wdJLvfss5AW8NF8I6TmIuchHS9rXmt2752iaStKSHeH'
-ACCESS_TOKEN ='956451552633397248-Xc3E5KMwUOBe7I2fHisHLYUnnDmiFuS'
-ACCESS_TOKEN_SECRET = '7o7xZmNobDfeNWq0x8PSlIOwvyWpRQJSsZtAzZKAO99Hl'
+CONSUMER_KEY = 'xxxxx'
+CONSUMER_SECRET ='xxxxx'
+ACCESS_TOKEN ='xxxxx'
+ACCESS_TOKEN_SECRET = 'xxxxx'
  
 HOST = 'localhost'
 USER = 'root'
-PASSWD = 'february122000'
+PASSWD = 'xxxxx'
 DATABASE = 'twitterdb'
  
 # This function takes the 'created_at', 'text', 'screen_name' and 'tweet_id' and stores it
