@@ -8,10 +8,10 @@ global api
 
 # API keys are stored in a separate file
 
-access_token = "956451552633397248-Xc3E5KMwUOBe7I2fHisHLYUnnDmiFuS"
-access_token_secret = "7o7xZmNobDfeNWq0x8PSlIOwvyWpRQJSsZtAzZKAO99Hl"
-consumer_key = "RC2Kl8eVrzz1wEd7vIJLKbPWX"
-consumer_secret = "9TC1hx6wdJLvfss5AW8NF8I6TmIuchHS9rXmt2752iaStKSHeH"
+access_token = "***"
+access_token_secret = "***"
+consumer_key = "***"
+consumer_secret = "***"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
